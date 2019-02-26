@@ -1,0 +1,118 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.topHeader, h1, {
+    margin-left: 25%;
+    font-size: 100%;
+    margin: 0%;
+    display: inline-block;
+    }
+.topHeader{
+     height: auto;
+    width: 100;
+}
+   
+nav{
+    border: 4px groove indianred;
+}
+
+h1{
+    margin: 0%;
+    display: inline-block;
+} 
+body, a{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.topHeader,h1{
+    margin-left:25%;
+    font-size:26px;
+    margin:0;
+    display: inline-block;
+    
+}
+.topHeader, img{
+    width:100;
+    height: auto;
+}
+nav{
+    border:4px outset red;
+   
+}
+nav,ul{
+    padding:0;
+    margin-left:25%;
+}
+nav,li{
+    display:inline-block;
+    padding-right:20;
+    font-size:20;
+    
+}
+nav,a{
+    text-decoration:overline, wavy, red;
+}
+
+.sectionHeader{
+    font-size:20px;
+    color:rgb(135, 169, 250);
+    font-family: 'B612', sans-serif;
+    text-shadow: 7px 15px 3.5px ;
+}
+.articleHeader{
+    font-size:18px;
+    color: #b62d9f;
+    text-decoration: underline wavy black
+}
+video{
+    width:100%;
+    height:auto;
+}
+.class{
+    display: inline-block;
+    width:70%;
+    vertical-align:top;
+}
+aside{
+    display:inline-block;
+    vertical-align: top;
+}
+.listHeader{
+    font-size:20px;
+    color:slateblue;
+    font-family: 'Inconsolata', monospace;
+}
+.consoleSection{
+    border: 10px ridge #3a6bc5;
+    margin:5px;
+    padding:10px
+}
+.consoleSection,li{
+    padding:5px
+}
+#marioDay{
+    font-size:35px;
+    text-shadow: 4px;
+    color:#2c9177c7(133, 44, 44);
+}
+#marioFact{
+    padding:20px;
+    font-style: bold;
+    font-size:23px;
+}
+section{
+    background-color:lightslategrey;
+}
+article{
+    background-color:#c46161;
+    border: 12px groove gray;
+    margin-bottom: 4px;
+}
+body{
+    background-image:
+     background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
